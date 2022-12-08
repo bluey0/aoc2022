@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AoC Day 2 b": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt",
+      "workingDirectory": "."
+    }
+  }
+}
